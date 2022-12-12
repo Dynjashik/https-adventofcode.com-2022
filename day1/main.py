@@ -1,4 +1,4 @@
-file = open("advent/1/input.txt", "r")
+file = open("day1/input.txt", "r")
 
 max_cal = 0
 max_current = 0

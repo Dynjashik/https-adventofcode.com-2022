@@ -1,4 +1,4 @@
-file = open("advent/2/new2.txt", "r")
+file = open("day2/new2.txt", "r")
 
 my_score = 0
 opp_score = 0
